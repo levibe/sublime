@@ -156,11 +156,12 @@ setTimeout(function() {
 
 - Set up a symlink between repo preferences and sublime preferences, e.g. `ln -s ~/Projects/sublime/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings`
 
+  
 ### Link snippets
 - Set up a symlink between this repo's snippets folder and Sublime's User Settings folder, e.g. `ln -s ~/Projects/sublime/Snippets/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`
 
 
-## Why use Sublime?
+# Why Sublime?
 
 It's simple and fast:  
 https://pavelfatin.com/typing-with-pleasure/  
