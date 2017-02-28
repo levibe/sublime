@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[form { $1 }
+	input[type='text'], textarea { $2 }
+	input[type='submit'] { $3 }]]></content>
+	<tabTrigger>fbase</tabTrigger>
+	<scope>source.css</scope>
+	<description>form base</description>
+</snippet>
