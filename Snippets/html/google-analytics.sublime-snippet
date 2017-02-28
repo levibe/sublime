@@ -9,7 +9,7 @@
 	ga('create', '{$1:UA-XXXXXXXX-1}', 'auto');
 	ga('send', 'pageview');
 </script>]]></content>
-	<tabTrigger>ganalytics</tabTrigger>
+	<tabTrigger>ga</tabTrigger>
 	<scope>text.html</scope>
 	<description>Google Analytics</description>
 </snippet>

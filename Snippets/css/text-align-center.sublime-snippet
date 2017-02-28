@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[text-align: center; ]]></content>
-	<tabTrigger>tcenter</tabTrigger>
+	<tabTrigger>tc</tabTrigger>
 	<scope>source.css</scope>
 	<description>text-align: center</description>
 </snippet>

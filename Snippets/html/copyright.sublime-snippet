@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Copyright &copy; $1. $0]]></content>
-	<tabTrigger>copyright</tabTrigger>
+	<tabTrigger>cr</tabTrigger>
 	<scope>text.html</scope>
 	<description>copyright</description>
 </snippet>
