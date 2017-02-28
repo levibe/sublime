@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[/* General & Resets */
+
+* { box-sizing: border-box; }
+html, body { height: 100%; width: 100%; margin: 0; padding: 0; color: #444; }
+body, input, select, textarea, button { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+p { line-height: 120%; }
+ul { margin-bottom: 0; }
+
+a, button { outline: none; transition: all 0.15s ease; }
+
+$1
+]]></content>
+	<tabTrigger>base</tabTrigger>
+	<scope>source.css</scope>
+	<description>base template</description>
+</snippet>

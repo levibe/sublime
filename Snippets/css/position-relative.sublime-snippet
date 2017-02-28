@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[position: relative; ]]></content>
+	<tabTrigger>prelative</tabTrigger>
+	<scope>source.css</scope>
+	<description>position: relative</description>
+</snippet>
