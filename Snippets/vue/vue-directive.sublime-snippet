@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[Vue.directive('${1:name}', {
+	bind: function () {
+		$2
+	},
+
+	update: function (value) {
+		$3
+	},
+
+	unbind: function () {
+		$4
+	}
+})$0]]></content>
+	<tabTrigger>vdirective</tabTrigger>
+	<scope>source.js</scope>
+	<description>vue directive</description>
+</snippet>

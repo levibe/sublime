@@ -21,6 +21,7 @@ Javascript, Node, and Vue snippets with no semicolons and tab indenting.
 - Set up a symlink between this repo's snippets folder and Sublime's User Settings folder, e.g. `ln -s ~/Projects/sublime/Snippets/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`
 
 
+
 ## Snippets
 
 Formatting: tab indents, no semicolons.

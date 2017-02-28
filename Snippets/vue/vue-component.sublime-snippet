@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+<template>
+	<div>
+		$4
+	</div>
+</template>
+
+
+<script>
+export default {
+	name: '$1',
+
+	data() {
+		return {
+			$2
+		}
+	},
+
+	methods: {
+		$3
+	}
+}
+</script>
+
+
+<style scoped>
+	$5
+</style>]]></content>
+	<tabTrigger>vcomponent</tabTrigger>
+	<scope>source.js</scope>
+	<description>vue component</description>
+</snippet>
