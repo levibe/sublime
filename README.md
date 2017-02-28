@@ -15,7 +15,7 @@ Javascript style is no semicolons and tab indenting.
 
 
 <a name="css">
-## CSS
+# CSS
 
 **com**  
 `/* $1 */ $0`
@@ -88,7 +88,7 @@ form { $1 }
 
 
 <a name="html">
-## HTML
+# HTML
 
 **a**  
 `<a href="$1">$2</a>$0`
@@ -105,6 +105,40 @@ Base HTML template
 **ga**  
 *Google Analytics snippet*
 
+
+
+<a name="js">
+# Javascript
+
+**cl**  
+`console.log($1)$0`
+
+**si**  
+```
+setInterval(function() {
+	${2}
+}, ${1:1000})$0
+```
+
+**st**  
+```
+setTimeout(function() {
+	${2}
+}, ${1:1000})$0
+```
+
+
+<a name="node">
+# Node
+
+**me**  
+`module.exports = ${1:name}`
+
+**pe**  
+`process.exit(${1:0})$0`
+
+**re**  
+`var ${1:module} = require('${1:module}')$0`
 
 
 
