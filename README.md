@@ -24,3 +24,8 @@ Snippets for Javascript, Node, Vue.
 ## Snippets
 
 Formatting: tab indents, no semicolons.
+
+
+## Why use Sublime?
+
+It's simple and fast: https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/
