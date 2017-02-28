@@ -80,10 +80,10 @@ form { $1 }
 ### Partials
 
 **base**  
-Base CSS file with some simple defaults
+*Base CSS file with some simple defaults*
 
 **responsive**  
-Responsive media query template
+*Responsive media query template*
 
 
 
@@ -102,8 +102,8 @@ Base HTML template
 **cr**  
 `Copyright &copy; $1. $0`
 
-**ga**
-Google Analytics snippet
+**ga**  
+*Google Analytics snippet*
 
 
 
