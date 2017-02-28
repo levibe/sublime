@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[$1 h1, $1 h2, $1 h3, $1 h4, $1 h5, $1 h6 { $2 }$0]]></content>
+	<content><![CDATA[$1 h1, $1 h2, $1 h3, $1 h4, $1 h5, $1 h6 { $2 }]]></content>
 	<tabTrigger>hs</tabTrigger>
 	<scope>source.css</scope>
 	<description>headings</description>
