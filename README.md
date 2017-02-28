@@ -1,6 +1,6 @@
 # Sublime settings and snippets 
 
-Boxy Ocean theme with customized preferences. See [Setup](#setup)
+Boxy Ocean theme with customized preferences. See [Setup](#setup) to get started.
 
 
 # Snippets
@@ -144,7 +144,7 @@ setTimeout(function() {
 
 
 <a name="setup">
-## Setup
+# Setup
 
 ### Set up theme
 - Download Roboto from Google Fonts (for Terminal)
