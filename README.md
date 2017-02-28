@@ -1,11 +1,11 @@
-# Sublime settings and snippets [Setup](#setup)
+# Sublime settings and snippets 
 
-Boxy Ocean theme with customized preferences.
-
-Javascript, Node, and Vue snippets with no semicolons and tab indenting.
+Boxy Ocean theme with customized preferences. See [Setup](#setup)
 
 
 # Snippets
+
+Javascript style is no semicolons and tab indenting.
 
 * [CSS](#css)
 * [HTML](#html)
