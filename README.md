@@ -1,13 +1,20 @@
-# Sublime settings and snippets 
+# Sublime settings and snippets [Setup](#setup)
 
 Boxy Ocean theme with customized preferences.
 
 Javascript, Node, and Vue snippets with no semicolons and tab indenting.
 
-See [Setup How to](#setup)
 
 # Snippets
 
+* [CSS](#css)
+* [HTML](#html)
+* [Javascript](#js)
+* [Node](#node)
+* [Vue](#vue)
+
+
+<a name="css">
 ## CSS
 
 **com**  
@@ -73,41 +80,30 @@ form { $1 }
 ### Partials
 
 **base**  
-```
-/* General & Resets */
-
-* { box-sizing: border-box; }
-html, body { height: 100%; width: 100%; margin: 0; padding: 0; color: #444; }
-body, input, select, textarea, button { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-p { line-height: 120%; }
-ul { margin-bottom: 0; }
-
-a, button { outline: none; transition: all 0.15s ease; }
-
-$1
-```
+Base CSS file with some simple defaults
 
 **responsive**  
-```
-/* Responsive */
+Responsive media query template
 
-@media handheld and (max-width: 1200px), screen and (max-device-width: 1200px), screen and (max-width: 1200px)  {
-	.wrapper { width: 960px; }
-}
 
-@media handheld and (max-width: 960px), screen and (max-device-width: 960px), screen and (max-width: 960px)  {
-	.wrapper { width: auto; min-width: 0; margin-left: 20px; margin-right: 20px; }
-	$1
-}
 
-@media handheld and (max-width: 740px), screen and (max-device-width: 740px), screen and (max-width: 740px)  {
-	$2
-}
-```
-
+<a name="html">
 ## HTML
 
+**a**  
+`<a href="$1">$2</a>$0`
+
+**base**  
+Base HTML template
+
+**c**  
+`<${1:component}$2></${1:component}>$0`
+
+**cr**  
+`Copyright &copy; $1. $0`
+
+**ga**
+Google Analytics snippet
 
 
 
