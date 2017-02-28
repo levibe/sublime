@@ -2,7 +2,7 @@
 
 Boxy Ocean theme with customized preferences.
 
-Snippets for Javascript, Node, Vue.
+Javascript, Node, and Vue snippets with no semicolons and tab indenting.
 
 
 ## Setup
