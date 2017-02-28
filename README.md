@@ -113,6 +113,13 @@ form { $1 }
 **cl**  
 `console.log($1)$0`
 
+**method**
+```
+${1:name}: function ($2) {
+		$3
+},
+```
+
 **si**  
 ```
 setInterval(function() {

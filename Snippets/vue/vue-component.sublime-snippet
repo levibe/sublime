@@ -1,6 +1,5 @@
 <snippet>
-	<content><![CDATA[
-<template>
+	<content><![CDATA[<template>
 	<div>
 		$4
 	</div>
