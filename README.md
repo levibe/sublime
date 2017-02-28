@@ -28,4 +28,6 @@ Formatting: tab indents, no semicolons.
 
 ## Why use Sublime?
 
-It's simple and fast: https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/
+It's simple and fast: 
+https://pavelfatin.com/typing-with-pleasure/
+https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/
