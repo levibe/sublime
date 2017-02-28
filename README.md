@@ -94,7 +94,7 @@ form { $1 }
 `<a href="$1">$2</a>$0`
 
 **base**  
-Base HTML template
+*Base HTML template*
 
 **c**  
 `<${1:component}$2></${1:component}>$0`
@@ -128,6 +128,7 @@ setTimeout(function() {
 ```
 
 
+
 <a name="node">
 # Node
 
@@ -140,6 +141,28 @@ setTimeout(function() {
 **re**  
 `var ${1:module} = require('${1:module}')$0`
 
+
+
+<a name="vue">
+# Vue
+
+**import**  
+`import ${1:module} from './${1:module}'$0`
+
+**vcdata**  
+```
+data () {
+	return {
+		${1:name}: ${2:data}
+	}
+},$0
+```
+
+**vcomponent**  
+*Base Vue component*
+
+**vdirective**  
+*Base Vue directive*
 
 
 
