@@ -1,0 +1,47 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="">
+
+		<title>${1:title}</title>
+
+		<!-- Favicons -->
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+		<meta name="application-name" content="Momentum Dash – Profile"/>
+		<meta name="msapplication-TileColor" content="#ffffff" />
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header>
+			<h1 class="header-logo"><img src="img/logo.png" alt="${1:title}"></h1>
+			<nav class="main-nav">
+				<a href="" class="active"></a>
+				<a href=""></a>
+				<a href=""></a>
+			</nav>
+		</header>
+
+
+		<section class="body">
+			$2
+		</section>
+
+
+		<footer>
+			$3
+		</footer>
+	</body>
+</html>]]></content>
+	<tabTrigger>base</tabTrigger>
+	<scope>text.html</scope>
+	<description>base template</description>
+</snippet>
