@@ -23,6 +23,9 @@ Javascript style is no semicolons and tab indenting.
 **com**  
 `/* $1 */ $0`
 
+**cp**  
+`cursor: pointer; `
+
 **db**  
 `display: block; `
 
@@ -40,6 +43,9 @@ Javascript style is no semicolons and tab indenting.
 
 **hs**  
 `$1 h1, $1 h2, $1 h3, $1 h4, $1 h5, $1 h6 { $2 } `
+
+**mau**  
+`margin: ${1:0} auto; $0`
 
 **pabs**  
 `position: absolute; `
