@@ -44,7 +44,7 @@ Javascript style is no semicolons and tab indenting.
 **pabs**  
 `position: absolute; `
 
-**pafull**  
+**pafill**  
 `position: absolute; top: 0; right: 0; bottom: 0; left: 0; `
 
 **pfix**  
