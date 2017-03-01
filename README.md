@@ -17,6 +17,9 @@ Javascript style is no semicolons and tab indenting.
 <a name="css">
 # CSS
 
+**anim**  
+``animation: ${1:name} 0.5s linear 0s forwards; ``
+
 **bsh**  
 `box-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0`
 
@@ -41,11 +44,25 @@ Javascript style is no semicolons and tab indenting.
 **dn**  
 `display: none; `
 
+**key**  
+```
+@keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}
+```
+
 **hs**  
 `$1 h1, $1 h2, $1 h3, $1 h4, $1 h5, $1 h6 { $2 } `
 
 **mau**  
 `margin: ${1:0} auto; $0`
+
+**noselect**  
+`user-select: none; `
+
+**op**  
+`opacity: ${1:1}; $0`
 
 **pabs**  
 `position: absolute; `

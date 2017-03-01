@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[user-select: none; ]]></content>
+	<tabTrigger>noselect</tabTrigger>
+	<scope>source.css</scope>
+	<description>user-select: none-</description>
+</snippet>
