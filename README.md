@@ -45,6 +45,9 @@ Javascript style is no semicolons and tab indenting.
 **dn**  
 `display: none; `
 
+**fs**  
+`font-size: $1;$0`
+
 **key**  
 ```
 @keyframes $1 {
