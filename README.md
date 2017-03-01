@@ -140,9 +140,6 @@ form { $1 }
 **c**  
 `<${1:component}$2></${1:component}>$0`
 
-**cr**  
-`Copyright &copy; $1. $0`
-
 **ga**  
 *Google Analytics snippet*
 
