@@ -17,6 +17,9 @@ Javascript style is no semicolons and tab indenting.
 <a name="css">
 # CSS
 
+**bsh**  
+`box-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0`
+
 **com**  
 `/* $1 */ $0`
 
@@ -61,6 +64,9 @@ Javascript style is no semicolons and tab indenting.
 
 **tra**  
 `transition: ${1:all} ${2:0.15}s ${3:ease}; `
+
+**tsh**  
+`text-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0`
 
 **vat**  
 `vertical-align: top; `
