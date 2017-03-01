@@ -175,6 +175,9 @@ setTimeout(function() {
 }, ${1:1000})$0
 ```
 
+**vst**  
+`var self = this`
+
 
 
 <a name="node">
