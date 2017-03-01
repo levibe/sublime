@@ -24,7 +24,8 @@ Javascript style is no semicolons and tab indenting.
 `box-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0`
 
 **com**  
-`/* $1 */ $0`
+*Add a comment, useful for headings*  
+`/* $1 */ $0`  
 
 **cp**  
 `cursor: pointer; `
