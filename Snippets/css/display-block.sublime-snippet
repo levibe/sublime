@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: block; ]]></content>
+	<tabTrigger>db</tabTrigger>
+	<scope>source.css</scope>
+	<description>display: block</description>
+</snippet>

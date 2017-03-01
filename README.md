@@ -20,8 +20,20 @@ Javascript style is no semicolons and tab indenting.
 **com**  
 `/* $1 */ $0`
 
+**db**  
+`display: block; `
+
+**df**  
+`display: flex; `
+
+**di**  
+`display: inline; `
+
 **dib**  
 `display: inline-block; `
+
+**dn**  
+`display: none; `
 
 **hs**  
 `$1 h1, $1 h2, $1 h3, $1 h4, $1 h5, $1 h6 { $2 } `
