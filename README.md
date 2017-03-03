@@ -48,6 +48,9 @@ Javascript style is no semicolons and tab indenting.
 **fs**  
 `font-size: $1;$0`
 
+**fw**  
+`font-weight: ${1:400};$0`
+
 **key**  
 ```
 @keyframes $1 {
@@ -154,6 +157,10 @@ form { $1 }
 
 **cl**  
 `console.log($1)$0`
+
+**com**  
+*Add a comment*  
+`/* $1 */ $0`  
 
 **method**
 ```
