@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[position: absolute; ]]></content>
+	<content><![CDATA[position: absolute;]]></content>
 	<tabTrigger>pabs</tabTrigger>
 	<scope>source.css</scope>
 	<description>position: absolute</description>

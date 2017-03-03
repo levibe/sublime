@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[position: relative; ]]></content>
+	<content><![CDATA[position: relative;]]></content>
 	<tabTrigger>prel</tabTrigger>
 	<scope>source.css</scope>
 	<description>position: relative</description>

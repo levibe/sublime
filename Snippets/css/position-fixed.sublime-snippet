@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[position: fixed; ]]></content>
+	<content><![CDATA[position: fixed;]]></content>
 	<tabTrigger>pfix</tabTrigger>
 	<scope>source.css</scope>
 	<description>position: relative</description>
