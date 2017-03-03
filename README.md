@@ -1,6 +1,6 @@
 # Sublime settings and snippets 
 
-Boxy Ocean theme with customized preferences. See [Setup](#setup) to get started.
+Boxy Ocean theme with customized preferences. [See Setup](#setup) to get started.
 
 
 # Snippets
@@ -128,10 +128,10 @@ form { $1 }
 ### Partials
 
 **base**  
-*[Base CSS file with some simple defaults](https://github.com/levibe/sublime/blob/master/Snippets/css/base.sublime-snippet)*
+*[Base CSS file](https://github.com/levibe/sublime/blob/master/Snippets/css/base.sublime-snippet) (with simple common settings)*
 
 **responsive**  
-*[https://github.com/levibe/sublime/blob/master/Snippets/css/responsive.sublime-snippet](Responsive media query template with some simple defaults)*
+*[Responsive media query](https://github.com/levibe/sublime/blob/master/Snippets/css/responsive.sublime-snippet) (with simple common settings)*
 
 
 
