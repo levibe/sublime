@@ -128,10 +128,10 @@ form { $1 }
 ### Partials
 
 **base**  
-*Base CSS file with some simple defaults*
+*[Base CSS file with some simple defaults](https://github.com/levibe/sublime/blob/master/Snippets/css/base.sublime-snippet)*
 
 **responsive**  
-*Responsive media query template*
+*[https://github.com/levibe/sublime/blob/master/Snippets/css/responsive.sublime-snippet](Responsive media query template with some simple defaults)*
 
 
 
@@ -142,13 +142,13 @@ form { $1 }
 `<a href="$1">$2</a>$0`
 
 **base**  
-*Base HTML template*
+*[Base HTML template](https://github.com/levibe/sublime/blob/master/Snippets/html/base.sublime-snippet)*
 
 **c**  
 `<${1:component}$2></${1:component}>$0`
 
 **ga**  
-*Google Analytics snippet*
+*[Google Analytics snippet](https://github.com/levibe/sublime/blob/master/Snippets/html/google-analytics.sublime-snippet)*
 
 
 
@@ -218,10 +218,10 @@ data () {
 ```
 
 **vcomponent**  
-*Base Vue component*
+*[Base Vue component](https://github.com/levibe/sublime/blob/master/Snippets/vue/vue-component.sublime-snippet)*
 
 **vdirective**  
-*Base Vue directive*
+*[Base Vue directive](https://github.com/levibe/sublime/blob/master/Snippets/vue/vue-directive.sublime-snippet)*
 
 
 
@@ -229,8 +229,6 @@ data () {
 # Setup
 
 ### Set up theme
-- Download Roboto from Google Fonts (for Terminal)
-
 - Install Package Control:
 `Cmd + Shift + P` -> `Install Package Manager`
 
