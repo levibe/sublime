@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[:first-child { $1 } ]]></content>
+	<tabTrigger>:fc</tabTrigger>
+	<scope>source.css</scope>
+	<description>:first-child</description>
+</snippet>
+

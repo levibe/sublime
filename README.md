@@ -105,7 +105,13 @@ Javascript style is no semicolons and tab indenting.
 `:after { $1 content: ''; } `
 
 **:bef**  
-`:before { $1 content: ''; } `
+`:before { $1 content: ''; } 
+
+**:fc**  
+`:first-child { $1 } `
+
+**:lc**  
+`:last-child { $1 } `
 
 
 ### Chunks
