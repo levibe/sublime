@@ -153,6 +153,10 @@ form { $1 }
 **c**  
 `<${1:component}$2></${1:component}>$0`
 
+**com**  
+*Add a comment*  
+`<!-- $1 -->$0`
+
 **ga**  
 *[Google Analytics snippet](https://github.com/levibe/sublime/blob/master/Snippets/html/google-analytics.sublime-snippet)*
 
