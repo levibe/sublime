@@ -92,6 +92,12 @@ Javascript style is no semicolons and tab indenting.
 **tac**  
 `text-align: center; `
 
+**tal**  
+`text-align: left; `
+
+**tar**  
+`text-align: right; `
+
 **tra**  
 `transition: ${1:all} ${2:0.15}s ${3:ease}; `
 
