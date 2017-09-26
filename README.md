@@ -27,6 +27,9 @@ Javascript style is no semicolons and tab indenting.
 *Add a comment, useful for headings*  
 `/* $1 */ $0`  
 
+**cd**  
+`cursor: default; `
+
 **cp**  
 `cursor: pointer; `
 
