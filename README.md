@@ -80,6 +80,9 @@ Javascript style is no semicolons and tab indenting.
 **pafill**  
 `position: absolute; top: 0; right: 0; bottom: 0; left: 0; `
 
+**pr**  
+`padding-right: $1; $0`
+
 **pfix**  
 `position: fixed; `
 
