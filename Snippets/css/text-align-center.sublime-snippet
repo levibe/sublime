@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[text-align: center; ]]></content>
+	<content><![CDATA[text-align: center;]]></content>
 	<tabTrigger>tac</tabTrigger>
 	<scope>source.css</scope>
 	<description>text-align: center</description>

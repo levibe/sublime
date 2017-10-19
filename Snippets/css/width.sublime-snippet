@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[width]]></content>
+	<content><![CDATA[width: ]]></content>
 	<tabTrigger>wid</tabTrigger>
 	<scope>source.css</scope>
 	<description>width</description>

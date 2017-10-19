@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[vertical-align: top; ]]></content>
+	<content><![CDATA[vertical-align: top;]]></content>
 	<tabTrigger>vat</tabTrigger>
 	<scope>source.css</scope>
 	<description>vertical-align: top</description>

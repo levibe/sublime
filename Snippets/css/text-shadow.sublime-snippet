@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[text-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0]]></content>
+	<content><![CDATA[text-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15});$0]]></content>
 	<tabTrigger>tsh</tabTrigger>
 	<scope>source.css</scope>
 	<description>text-shadow</description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[transition: ${1:all} ${2:0.15}s ${3:ease}; ]]></content>
+	<content><![CDATA[transition: ${1:all} ${2:0.15}s ${3:ease};]]></content>
 	<tabTrigger>tra</tabTrigger>
 	<scope>source.css</scope>
 	<description>transition</description>

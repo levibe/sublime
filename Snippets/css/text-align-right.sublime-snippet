@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[text-align: right; ]]></content>
+	<content><![CDATA[text-align: right;]]></content>
 	<tabTrigger>tar</tabTrigger>
 	<scope>source.css</scope>
 	<description>text-align: right</description>
