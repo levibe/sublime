@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<nav class="$1">
+	<div class="$1-toggle">
+		<a href="">$2</a>
+	</div>
+	<div class="$1-dropdown">
+		<a href="">$3</a>
+		<a href="">$4</a>
+	</div>
+</nav>$0]]></content>
+	<tabTrigger>dropdown</tabTrigger>
+	<scope>text.html</scope>
+	<description>dropdown</description>
+</snippet>
