@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[/* $1 */ $0]]></content>
+	<content><![CDATA[/* $1 */$0]]></content>
 	<tabTrigger>com</tabTrigger>
 	<scope>source.css</scope>
 	<description>comment block</description>

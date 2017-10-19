@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[animation: ${1:name} 0.5s linear 0s forwards; $0]]></content>
+	<content><![CDATA[animation: ${1:name} 0.5s linear 0s forwards;$0]]></content>
 	<tabTrigger>anim</tabTrigger>
 	<scope>source.css</scope>
 	<description>animation-</description>

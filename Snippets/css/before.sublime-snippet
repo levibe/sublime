@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[:before { $1 content: ''; } ]]></content>
-	<tabTrigger>:bef</tabTrigger>
+	<content><![CDATA[:before { $1 content: ''; }]]></content>
+	<tabTrigger>:bf</tabTrigger>
 	<scope>source.css</scope>
 	<description>:before</description>
 </snippet>

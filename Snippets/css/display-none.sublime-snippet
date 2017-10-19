@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[display: none; ]]></content>
+	<content><![CDATA[display: none;]]></content>
 	<tabTrigger>dno</tabTrigger>
 	<scope>source.css</scope>
 	<description>display: none</description>

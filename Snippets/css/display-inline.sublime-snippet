@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[display: inline; ]]></content>
+	<content><![CDATA[display: inline;]]></content>
 	<tabTrigger>di</tabTrigger>
 	<scope>source.css</scope>
 	<description>display: inline</description>

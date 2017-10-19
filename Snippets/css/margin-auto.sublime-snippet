@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[margin: ${1:0} auto; ]]></content>
+	<content><![CDATA[margin: ${1:0} auto;$0]]></content>
 	<tabTrigger>mau</tabTrigger>
 	<scope>source.css</scope>
 	<description>margin: 0 auto</description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[cursor: default; ]]></content>
+	<content><![CDATA[cursor: default;]]></content>
 	<tabTrigger>cd</tabTrigger>
 	<scope>source.css</scope>
 	<description>cursor: default</description>

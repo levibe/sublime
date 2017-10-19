@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[display: flex; ]]></content>
+	<content><![CDATA[display: flex;]]></content>
 	<tabTrigger>df</tabTrigger>
 	<scope>source.css</scope>
 	<description>display: flex</description>
