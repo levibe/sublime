@@ -1,11 +1,6 @@
 # Sublime settings and snippets 
 
-Boxy Ocean theme with customized preferences. [See Setup](#setup) to get started.
-
-
-# Snippets
-
-Javascript style is no semicolons and tab indenting.
+Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on how to set up your Sublime Text for these snippets.
 
 * [CSS](#css)
 * [HTML](#html)
@@ -14,9 +9,10 @@ Javascript style is no semicolons and tab indenting.
 * [Vue](#vue)
 
 
-<a name="css"></1>
+# Snippets
 
-# CSS
+<a name="css"></a>
+## CSS
 
 **anim**  
 ``animation: ${1:name} 0.5s linear 0s forwards; ``
@@ -176,8 +172,9 @@ form { $1 }
 
 
 <a name="js"></a>
-
 # Javascript
+
+Javascript style is no semicolons and tab indenting.
 
 **cl**  
 `console.log($1)$0`
@@ -213,7 +210,6 @@ setTimeout(function() {
 
 
 <a name="node"></a>
-
 # Node
 
 **me**  
@@ -248,10 +244,9 @@ data () {
 **vdirective**  
 *[Base Vue directive](https://github.com/levibe/sublime/blob/master/Snippets/vue/vue-directive.sublime-snippet)*
 
-
+---
 
 <a name="setup"></a>
-
 # Setup
 
 ### Set up theme
@@ -267,7 +262,7 @@ data () {
 - Set up a symlink between this repo's snippets folder and Sublime's User Settings folder, e.g. `ln -s ~/Projects/sublime/Snippets/ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/`
 
 
-# Why Sublime?
+## Why Sublime?
 
 It's simple and fast:  
 https://pavelfatin.com/typing-with-pleasure/  
