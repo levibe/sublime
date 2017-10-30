@@ -66,7 +66,10 @@ Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on ho
 `margin: ${1:0} auto; $0`
 
 **noselect**  
-`user-select: none; `
+`user-select: none;`
+
+**oh**  
+`overflow: hidden;`
 
 **op**  
 `opacity: ${1:1}; $0`
