@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[var ${1:rand} = ${2:array}[Math.floor(Math.random() * $2.length)]$0]]></content>
+	<tabTrigger>ra</tabTrigger>
+	<scope>source.js</scope>
+	<description>random array item</description>
+</snippet>

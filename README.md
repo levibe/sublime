@@ -36,6 +36,9 @@ Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on ho
 **df**  
 `display: flex; `
 
+**dg**  
+`display: grid; `
+
 **di**  
 `display: inline; `
 
@@ -110,6 +113,9 @@ Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on ho
 **tsh**  
 `text-shadow: ${1:0} ${2:1px} ${3:5px} rgba(0,0,0,${4:0.15}); $0`
 
+**var**  
+`var(--$1)$0`
+
 **vat**  
 `vertical-align: top; `
 
@@ -169,8 +175,20 @@ form { $1 }
 *Add a comment*  
 `<!-- $1 -->$0`
 
+**dc**  
+*Add a comment*  
+`<div class=!-- $1 -->$0`
+
 **ga**  
 *[Google Analytics snippet](https://github.com/levibe/sublime/blob/master/Snippets/html/google-analytics.sublime-snippet)*
+
+**sc**  
+*Span with class*  
+`<span class="$1">$2</span>$0`
+
+**sec**  
+*Section with class*  
+`<section class="$1">$2</section>$0`
 
 
 

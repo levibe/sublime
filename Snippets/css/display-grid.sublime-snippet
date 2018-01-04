@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: grid;]]></content>
+	<tabTrigger>dg</tabTrigger>
+	<scope>source.css</scope>
+	<description>display: grid</description>
+</snippet>
