@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[text-transform: ${1:uppercase};$0]]></content>
-	<tabTrigger>tt</tabTrigger>
+	<content><![CDATA[text-align: right;]]></content>
+	<tabTrigger>tar</tabTrigger>
 	<scope>source.css</scope>
-	<description>text-transform: (uppercase)</description>
+	<description>text-align: right</description>
 </snippet>
