@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<transition name="$1">
+	$2
+</transition>$0]]></content>
+	<tabTrigger>tra</tabTrigger>
+	<scope>text.html</scope>
+	<description>vue transition</description>
+</snippet>
