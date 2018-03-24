@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[rgba(0,0,0,${1:1});$0]]></content>
+	<content><![CDATA[rgba(0,0,0,${1:1})$0]]></content>
 	<tabTrigger>rgbab</tabTrigger>
 	<scope>source.css</scope>
 	<description>rgba(0,0,0,1)</description>

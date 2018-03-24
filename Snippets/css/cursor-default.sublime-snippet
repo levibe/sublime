@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[cursor: default;]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<content><![CDATA[color: white;]]></content>
+	<tabTrigger>cw</tabTrigger>
 	<scope>source.css</scope>
-	<description>cursor: default</description>
+	<description>color: white</description>
 </snippet>

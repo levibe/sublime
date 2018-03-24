@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[!important]]></content>
+	<content><![CDATA[important]]></content>
 	<tabTrigger>important</tabTrigger>
 	<scope>source.css</scope>
 	<description>important</description>
