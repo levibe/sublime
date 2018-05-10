@@ -29,7 +29,7 @@
 	"scroll_past_ending": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"tab_size": 4,
+	"tab_size": 8,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_icons_flat": true,
 	"theme_unified": true,
