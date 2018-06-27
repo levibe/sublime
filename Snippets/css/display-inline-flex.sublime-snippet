@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: inline-flex;]]></content>
+	<tabTrigger>dif</tabTrigger>
+	<scope>source.css</scope>
+	<description>display: inline-flex</description>
+</snippet>
