@@ -11,7 +11,7 @@
 @media handheld and (max-width: 740px), screen and (max-device-width: 740px), screen and (max-width: 740px)  {
 	$2
 }]]></content>
-	<tabTrigger>responsive</tabTrigger>
+	<tabTrigger>resp</tabTrigger>
 	<scope>source.css</scope>
 	<description>responsive media query</description>
 </snippet>
