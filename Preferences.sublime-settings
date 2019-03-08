@@ -8,7 +8,7 @@
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
 	"caret_extra_width": 1,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "Roboto",
@@ -29,11 +29,16 @@
 	"scroll_past_ending": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"skin": "DA UI/Classic",
 	"tab_size": 8,
-	"theme": "DA.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"theme_icons_flat": true,
 	"theme_unified": true,
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"ui_font_roboto_mono": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_native_titlebar": false,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true
 }
