@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[@media handheld and (max-width: 740px), screen and (max-device-width: 740px), screen and (max-width: 740px)  {
+
+	$0
+
+}]]></content>
+	<tabTrigger>mres</tabTrigger>
+	<scope>source.css</scope>
+	<description>mobile media query</description>
+</snippet>
