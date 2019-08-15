@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-decoration: underline;]]></content>
+	<tabTrigger>tdu</tabTrigger>
+	<scope>source.css</scope>
+	<description>text-decoration: underline</description>
+</snippet>

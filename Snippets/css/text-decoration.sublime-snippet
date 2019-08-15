@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-decoration:]]></content>
+	<tabTrigger>td</tabTrigger>
+	<scope>source.css</scope>
+	<description>text-decoration</description>
+</snippet>
