@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[font-size: 1.4375rem;]]></content>
+	<tabTrigger>f23</tabTrigger>
+	<scope>source.css</scope>
+	<description>font-size 23px</description>
+</snippet>
