@@ -26,7 +26,7 @@ export default {
 <style scoped>
 	$5
 </style>]]></content>
-	<tabTrigger>vcomponent</tabTrigger>
-	<scope>source.js</scope>
+	<tabTrigger>vcom</tabTrigger>
+	<scope>source.vue</scope>
 	<description>vue component</description>
 </snippet>
