@@ -1,6 +1,6 @@
 # Sublime settings and snippets
 
-Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on how to set up your Sublime Text for these snippets.
+ayu theme with customized preferences. See [Setup](#setup) for info on how to set up your Sublime Text for these snippets.
 
 * [CSS](#css)
 * [HTML](#html)
@@ -8,6 +8,7 @@ Boxy Ocean theme with customized preferences. See [Setup](#setup) for info on ho
 * [Node](#node)
 * [Vue](#vue)
 
+Note: Snippet docs below are out of date.
 
 # Snippets
 
@@ -274,7 +275,8 @@ data () {
 - Install Package Control:
 `Cmd + Shift + P` -> `Install Package Manager`
 
-- Install and active ayu theme: https://packagecontrol.io/packages/ayu
+- Install and activate ayu theme: https://packagecontrol.io/packages/ayu
+`Cmd + Shift + P` -> `ayu: Activate theme` -> `ayu mirage`
 
 - Set up a symlink between repo preferences and sublime preferences, e.g. `ln -s ~/Projects/sublime/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings`
 
@@ -285,6 +287,6 @@ data () {
 
 ## Why Sublime?
 
-It's simple and fast:
+It's simple and fast, e.g.:
 https://pavelfatin.com/typing-with-pleasure/
 https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/
