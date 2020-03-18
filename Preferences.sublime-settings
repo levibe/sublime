@@ -17,7 +17,8 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"indent_guide_options":
 	[
