@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<${1:li} v-for="(${2:item}, index) in ${3:items}" :key="index" class="$4">$5</${1:li}>$0]]></content>
+	<tabTrigger>vfor</tabTrigger>
+	<!-- <scope>source.vue</scope> -->
+	<description>v-for</description>
+</snippet>
+
+
