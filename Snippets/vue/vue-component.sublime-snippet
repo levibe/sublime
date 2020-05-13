@@ -9,13 +9,11 @@
 <script>
 export default {
 	name: '$1',
-
 	data() {
 		return {
 			$2
 		}
 	},
-
 	methods: {
 		$3
 	}
@@ -26,7 +24,6 @@ export default {
 <style scoped>
 	$5
 </style>]]></content>
-	<tabTrigger>vcom</tabTrigger>
-	<scope>source.vue</scope>
-	<description>vue component</description>
+	<tabTrigger>vbase</tabTrigger>
+	<description>vue base component</description>
 </snippet>
