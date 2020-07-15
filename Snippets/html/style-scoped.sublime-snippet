@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[<style scoped>
+
 	$0
+
 </style>]]></content>
 	<tabTrigger>ss</tabTrigger>
 	<scope>text.html</scope>
