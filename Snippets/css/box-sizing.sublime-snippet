@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[box-sizing: border-box;$0]]></content>
+	<tabTrigger>bs</tabTrigger>
+	<scope>source.css</scope>
+	<description>box-sizing border-box</description>
+</snippet>
